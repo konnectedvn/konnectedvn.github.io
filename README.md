@@ -1,9 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to KonnectED on GitHub 
 
-You can use the [editor on GitHub](https://github.com/konnectedvn/konnectedvn.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Cảm ơn bạn đã ghé thăm.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bạn cũng có thể viếng thăm trang chủ của chúng tôi tại https://konnected.vn
+hoặc cửa hàng tại https://store.konnected.vn
 
+# Trang này đang được xây dựng và dự định là nơi giới thiệu, cung cấp cũng như hướng dẫn các dự án nguồn mở của konnectED Việt Nam
+
+Dưới đây là hướng dẫn của Github 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
